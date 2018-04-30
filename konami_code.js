@@ -4,6 +4,6 @@ function init() {
   var index = 0;
   document.addEventListenter('keydown',function(e) {
     const key = parseInt(e.detail || e.which);
-    
+    if 
   }
 }
